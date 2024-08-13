@@ -1,5 +1,6 @@
-# project_watson_02
+# project_watson_02: Natural Language Inference
 
-## References
+
 ***
+## References
 https://nlp.stanford.edu/pubs/snli_paper.pdf
