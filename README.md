@@ -18,5 +18,7 @@ Our model is heavily inspired on
 https://www.kaggle.com/code/alexia/kerasnlp-starter-notebook-contradictory-dearwatson
 
 https://keras.io/guides/keras_nlp/getting_started/
+
 https://keras.io/guides/transfer_learning/
+
 https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp
