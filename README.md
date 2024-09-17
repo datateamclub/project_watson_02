@@ -6,7 +6,7 @@ For the second UM Data Team Club project we will be diving into Natural Language
 The objective of this project is to perform two NLI models. The first one using the **BERT** (Bidirectional Encoder Representations from Transformers) model from preset, and the second one using the same model but doing **Transfer Learning** (EXPLICAR).
 
 ## The Model
-PONER IMAGEN DE LA ARQUITECTURA DEL MODELO
+![Alt text](Images/new_BERT_Overall.jpg)
 
 ## Key Lessons
 
