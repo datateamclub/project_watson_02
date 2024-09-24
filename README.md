@@ -3,7 +3,7 @@
 For the second UM Data Team Club project we will be diving into Natural Language Inference (NLI). This time, our goal is to explore and analyze the relationships between different pairs of text to understand if one sentence logically follows from another. To do so, we will be attempting to solve the Contradictory, My Dear Watson challenge from Kaggle. The goal of this project is to perform two NLI models. The first one using the **BERT** (Bidirectional Encoder Representations from Transformers) model from preset, and the second one using the same model but doing **Transfer Learning**.
 
 ## Challenges
-As with any data science project, there are challenges. Early in the project, we had difficulty installing and running the Keras_NLP library (a natural language processing library) due to version incompatibility issues with other dependencies. Also
+As with any data science project, there are challenges. Early in the project, we had difficulty installing and running the KerasNLP library (a natural language processing framework) due to version incompatibility issues with other dependencies. Also
 
 ## The Model
 BERT (Bidirectional Encoder Representations from Transformers) is a pre-trained language model based on the transformer architecture, designed to understand the context of a word by analyzing both the preceding and following words in a sentence. Its structure is made up of layers of encoders that process text bidirectionally, allowing it to capture deeper nuances in language. BERT is trained on large datasets using unsupervised tasks like masked language modeling and next sentence prediction.
