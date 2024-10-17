@@ -32,6 +32,8 @@ https://keras.io/guides/transfer_learning/
 
 https://huggingface.co/docs/transformers/model_doc/bert
 
+https://huggingface.co/google/flan-t5-large
+
 https://poloclub.github.io/transformer-explainer/
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp
