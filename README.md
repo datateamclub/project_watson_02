@@ -18,6 +18,10 @@ On the other hand, transfer learning involves taking a pre-trained model like BE
 Understanding natural language inference (NLI) models, especially BERT, can seem overwhelming at first, but with time and hands-on experience, it gets easier. As we worked through the Contradictory, My Dear Watson challenge, we realized how important it is to understand BERT's structure in order to use it effectively for text classification. Importing BERT from a preset made things faster and easier, allowing us to focus more on fine-tuning the model. On the other hand, exploring transfer learning showed us the depth involved in adapting pre-trained models. This experience taught us how to balance convenience and precision, depending on the approach.
 
 Now, having gained a deeper understanding of these models, we're excited to tackle new challenges and push the boundaries of what we can achieve. The lessons we've learned have not only sharpened our skills but also fueled our enthusiasm for diving into the next project with even more confidence and curiosity.
+
+## Bonus
+An exciting alternative emerged when we integrated a generative AI model Google's Flan-T5-Large to make predictions on a sample of our dataset. It was able to interpret complex text relationships and make quick predictions with minimal effort. Integrating this generative AI model saved even more time compared to the default BERT model because it required less manual configuration and generalized well to unseen data without extensive retraining.
+
 ## References
 
 https://www.kaggle.com/code/alexia/kerasnlp-starter-notebook-contradictory-dearwatson
